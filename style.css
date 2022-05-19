@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+}
+
+.navbar-links {
+    text-align: center;
+    padding: 0px 10px;
+    word-wrap: normal;
+    display: inline-block;
+}
+
+.p-categories {
+    color:yellowgreen;
+}
+
+.ul-list{
+    
+    list-style: none;
+}
+.ol-list {
+    list-style-position: inside;
+}
+
+
+h1 {
+    color: red;
+    font-size: 30 px;
+}
+
+h2  {
+    color:blue;
+    font-size: 20 px;
+}
+
+form.form-example {
+    display: table;
+}
+
+div.form-example {
+    display: table-row;
+}
+
+label, input {
+    display: table-cell;
+    margin-bottom: 10px;
+}
+
+label {
+    padding-right: 10px;
+}
